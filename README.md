@@ -97,5 +97,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: varadprabhu111@gmail.com
-- **GitHub**: [github.com/vaxad](https://github.com/vaxad)
+- **Email**: Rajatbhardwaj1237@gmail.com
+- **GitHub**:(https://github.com/rajatbhardwaj1237-sudo)
